@@ -216,9 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-.gradio/
-.vscode/
-chroma_db/
-statistiques_generes.csv
-statistiques_generes.xlsx
